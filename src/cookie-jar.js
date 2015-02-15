@@ -2,13 +2,7 @@
 /**
  * Description
  *
- * Couple of libraries combined together for usage when jQuery is not used
- * Included are:
  * Cookie library with a full Unicode support (based on a framework created by Mozilla with a few improvements)
- * Ajax library
- * Error handling library
- * This library is released under the GNU Public License, version 3 or later.
- * http://www.gnu.org/licenses/gpl-3.0-standalone.html
  */
 (function () {
     'use strict';
